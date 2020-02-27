@@ -1,9 +1,13 @@
 import random
 import time
 def welcome():
-    print("passwordGeneratorUltimate (from Wafelack) , v1.0 ")
+    print("PasswordGenerator Pro, v2.0 ")
     print()
     print("</*\> Welcome on Password Generator Ultimate </*\>")
+    print()
+    print()
+    print("Made by Wafelack")
+    print()
     print()
 def space():
     print()
